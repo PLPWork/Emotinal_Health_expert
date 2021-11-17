@@ -10,6 +10,9 @@
 
 ## Youtube Link (Merged Videos for Business & System Architecture / Demos)
    - https://www.youtube.com/watch?v=2iqxXFh1QL4
+   
+## Google drive location(s)
+   - K.B Docs https://drive.google.com/drive/u/0/folders/1OmA1EaaBpTmC-M4jBmbeJMkzO2NVrGvi
 
 ## USER DEPLOYMENT GUIDE (refer to attached user deployment guide doc for screenshots guide)
 ### 1.	Hardware
