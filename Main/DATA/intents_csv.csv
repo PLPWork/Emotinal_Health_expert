@@ -1,0 +1,508 @@
+﻿text,intent
+hi,greetings
+hey,greetings
+good morning,greetings
+is anyone there?,greetings
+hello,greetings
+good afternoon,greetings
+good evening,greetings
+yo!,greetings
+sup,greetings
+what's up?,greetings
+heyyy,greetings
+hiii,greetings
+morning,greetings
+evening,greetings
+afternoon,greetings
+howdy,greetings
+hi! how are you doing?,greetings
+hey hope you're doing good.,greetings
+hi. glad to talk to you,greetings
+top of the morning to you,greetings
+hi long time no see,greetings
+long time no see,greetings
+hey how have you been doing,greetings
+how ya doin,greetings
+it's good talking to you,greetings
+how're you,greetings
+how are you,greetings
+how are things,greetings
+trust everything is going good,greetings
+what's news,greetings
+what is up with you,greetings
+howdy,greetings
+hola,greetings
+how've you been,greetings
+hey hi,greetings
+helloz,greetings
+hi what's up,greetings
+hi! is this a good time to talk?,greetings
+hi. can we talk now?,greetings
+can talk now?,greetings
+hi are you free now?,greetings
+hi i would like to talk to you,greetings
+i need to discuss something with you,greetings
+hey! i need some help,greetings
+hi. i need some help from you,greetings
+hi can i ask for some help?,greetings
+hey would you be free to help me?,greetings
+hi. you got a minute?,greetings
+hello! can i ask you for a favor,greetings
+can help me please?,greetings
+i need to ask you something,greetings
+heyyy how have you been,greetings
+hi. hope all is well with you,greetings
+hope all is well,greetings
+what is up?,greetings
+what's news,greetings
+sup what's cooking,greetings
+yo! what's happening,greetings
+can i talk to you,greetings
+got a moment?,greetings
+you free to talk?,greetings
+you got some time now?,greetings
+you busy?,greetings
+you free?,greetings
+hey i need to talk to you,greetings
+hello i've been waiting to talk to you,greetings
+hi! do you have a moment?,greetings
+long time,greetings
+got time to talk?,greetings
+are you free to talk?,greetings
+are you free now?,greetings
+you there?,greetings
+there?,greetings
+der?,greetings
+who are you?,greetings
+may i know your name?,greetings
+may i know who you are,greetings
+what is your name?,greetings
+can you give me an introduction about yourself,greetings
+introduce yourself,greetings
+your name?,greetings
+hi. tell me more about yourself,greetings
+tell me about yourself,greetings
+hey got a minute?,greetings
+hey i have a question,greetings
+are you online now?,greetings
+hey you available to talk?,greetings
+are you available now?,greetings
+are you available for a chat now?,greetings
+can we chat?,greetings
+"hi, i would like to chat with you about something.",greetings
+online?,greetings
+"hi, i am john simmons",greetings
+hey i am john from the big data team,greetings
+hi my name is albert roger. are you free to talk?,greetings
+"hi, i am the manager of the development team",greetings
+hello. i am lawrence and am from the development team,greetings
+hi! i am samuel and am the manager of the payments team,greetings
+hey this is jonathan and i would like to discuss something with you,greetings
+hi i represent the quality assurance team and need some help,greetings
+hi my name is william. you there?,greetings
+my name is brandon. there?,greetings
+i am brady. are you online?,greetings
+this is jennifer from the security team. can we talk?,greetings
+i am jack and i am from the network team. are you available for a quick conversation?,greetings
+yo! i am from the hr team and need some help,greetings
+this is albert from the development team,greetings
+this is monica,greetings
+i am joseph,greetings
+"hello, this is joel",greetings
+hi i am malcolm,greetings
+hello i am ashley,greetings
+hello i am ash from the coding team,greetings
+"yo, i am victor from the legal department",greetings
+i need some guidance,greetings
+help needed,greetings
+can you provide some quick help?,greetings
+i need some clarification,greetings
+can you provide some guidance,greetings
+I would like to take counselling,counsel
+can I get counselling,counsel
+counsel,counsel
+is counsel available,counsel
+counsel me,counsel
+can I get help and counselling,counsel
+counsel me,counsel
+Is there a counsellor available,counsel
+do you consel people,counsel
+counsel and help,counsel
+I need to speak to a real counselor,counsel
+I need to speak to a real counsellor,counsel
+help me ,counsel
+can you guide me,counsel
+I need guidance and tips,counsel
+tips from a real person,counsel
+counselling please ,counsel
+please help and advice,counsel
+I need advice,counsel
+I need counselling,counsel
+I need counsel,counsel
+counsel me please,counsel
+quick counsel ,counsel
+COUNSEL,counsel
+COUNSEL ME PLEASE,counsel
+Survey ,survey
+I would like to take a survey,survey
+Please help me to get a survey,survey
+Yes I would like to take a survey,survey
+"Yes, I'd like to participate in a survey.",survey
+"Yes, I'm interested in taking part in a poll.",survey
+"Yes, I'm interested in taking part in a survey.",survey
+Hi,greetings
+Hello,greetings
+Hi Help me,greetings
+"Hello, I'd like to take a look at the bot.",greetings
+Hello and good morning,greetings
+good morning,greetings
+Hello there.,greetings
+Good day.,greetings
+I do not understand,not recognized
+I'm not sure I understand.,not recognized
+I'm baffled.,not recognized
+I don't get it.,not recognized
+What is this?,not recognized
+What exactly is this?,not recognized
+What exactly is going on here?,not recognized
+I might want to take a study ,survey
+"If it's not too much trouble, assist me with getting a study ",survey
+Indeed I might want to take a study ,survey
+"Indeed, I'd prefer to partake in a study. ",survey
+"Indeed, I'm keen on partaking in a survey. ",survey
+"Indeed, I'm keen on partaking in a study.",survey
+I should take a review ,survey
+"Assuming no one minds, help me with getting a review ",survey
+Sure I should take a review ,survey
+"most certainly, I'd like to participate in a review. ",survey
+"To be sure, I'm enthusiastic about participating in a study. ",survey
+"To be sure, I'm enthusiastic about participating in a review.",survey
+I might want to take counselling ,counsel
+would i be able to seek guidance ,counsel
+counsel or counselling is available ,counsel
+is counselling accessible ,counsel
+counsel me ,counsel
+could i be able to seek help and guidance ,counsel
+counsel me ,counsel
+Is there an instructor accessible ,counsel
+do you counsel individuals ,counsel
+advice and help ,counsel
+I want to address a genuine guide ,counsel
+I want to address a genuine guide ,counsel
+help me ,counsel
+would you be able to direct me ,counsel
+I want direction and tips ,counsel
+tips from a genuine individual ,counsel
+advising please ,counsel
+kindly give assistance and counselling,counsel
+I want guidance ,counsel
+I want advising ,counsel
+I want counselling ,counsel
+counsel me please ,counsel
+speedy advice ,counsel
+Guidance ,counsel
+Guide ME PLEASE,counsel
+I should take a review ,survey
+"Assuming no one minds, help me with getting a review ",survey
+For sure I should take a review ,survey
+"Without a doubt, I'd like to participate in a review. ",survey
+"For sure, I'm excited about participating in a review. ",survey
+"For sure, I'm excited about participating in a review. ",survey
+I should take a survey ,survey
+"Accepting nobody minds, assist me with getting a survey ",survey
+Sure I should take a survey ,survey
+"definitely, I'd prefer to take part in an audit. ",survey
+"Certainly, I'm energetic about partaking in a review. ",survey
+"Undoubtedly, I'm excited about partaking in an audit.",survey
+I don't comprehend ,not recognized
+I don't know I comprehend. ,not recognized
+I'm bewildered. ,not recognized
+I don't get it. ,not recognized
+What is this? ,not recognized
+What precisely is this? ,not recognized
+What precisely is happening here?,not recognized
+I don't appreciate ,not recognized
+I don't realize I appreciate. ,not recognized
+I'm puzzled. ,not recognized
+I don't get it. ,not recognized
+What is this? ,not recognized
+What unequivocally is this? ,not recognized
+What unequivocally is going on here?,not recognized
+hi,greetings
+hey,greetings
+good morning,greetings
+is anyone there?,greetings
+hello,greetings
+good afternoon,greetings
+good evening,greetings
+yo!,greetings
+sup,greetings
+what's up?,greetings
+heyyy,greetings
+hiii,greetings
+morning,greetings
+evening,greetings
+afternoon,greetings
+howdy,greetings
+hi! how are you doing?,greetings
+hey hope you're doing good.,greetings
+hi. glad to talk to you,greetings
+top of the morning to you,greetings
+hi long time no see,greetings
+long time no see,greetings
+hey how have you been doing,greetings
+how ya doin,greetings
+it's good talking to you,greetings
+how're you,greetings
+how are you,greetings
+how are things,greetings
+trust everything is going good,greetings
+what's news,greetings
+what is up with you,greetings
+howdy,greetings
+hola,greetings
+how've you been,greetings
+hey hi,greetings
+helloz,greetings
+hi what's up,greetings
+hi! is this a good time to talk?,greetings
+hi. can we talk now?,greetings
+can talk now?,greetings
+hi are you free now?,greetings
+hi i would like to talk to you,greetings
+i need to discuss something with you,greetings
+hey! i need some help,greetings
+hi. i need some help from you,greetings
+hi can i ask for some help?,greetings
+hey would you be free to help me?,greetings
+hi. you got a minute?,greetings
+hello! can i ask you for a favor,greetings
+can help me please?,greetings
+i need to ask you something,greetings
+heyyy how have you been,greetings
+hi. hope all is well with you,greetings
+hope all is well,greetings
+what is up?,greetings
+what's news,greetings
+sup what's cooking,greetings
+yo! what's happening,greetings
+can i talk to you,greetings
+got a moment?,greetings
+you free to talk?,greetings
+you got some time now?,greetings
+you busy?,greetings
+you free?,greetings
+hey i need to talk to you,greetings
+hello i've been waiting to talk to you,greetings
+hi! do you have a moment?,greetings
+long time,greetings
+got time to talk?,greetings
+are you free to talk?,greetings
+are you free now?,greetings
+you there?,greetings
+there?,greetings
+der?,greetings
+who are you?,greetings
+may i know your name?,greetings
+may i know who you are,greetings
+what is your name?,greetings
+can you give me an introduction about yourself,greetings
+introduce yourself,greetings
+your name?,greetings
+hi. tell me more about yourself,greetings
+tell me about yourself,greetings
+hey got a minute?,greetings
+hey i have a question,greetings
+are you online now?,greetings
+hey you available to talk?,greetings
+are you available now?,greetings
+are you available for a chat now?,greetings
+can we chat?,greetings
+"hi, i would like to chat with you about something.",greetings
+online?,greetings
+"hi, i am john simmons",greetings
+hey i am john from the big data team,greetings
+hi my name is albert roger. are you free to talk?,greetings
+"hi, i am the manager of the development team",greetings
+hello. i am lawrence and am from the development team,greetings
+hi! i am samuel and am the manager of the payments team,greetings
+hey this is jonathan and i would like to discuss something with you,greetings
+hi i represent the quality assurance team and need some help,greetings
+hi my name is william. you there?,greetings
+my name is brandon. there?,greetings
+i am brady. are you online?,greetings
+this is jennifer from the security team. can we talk?,greetings
+i am jack and i am from the network team. are you available for a quick conversation?,greetings
+yo! i am from the hr team and need some help,greetings
+this is albert from the development team,greetings
+this is monica,greetings
+i am joseph,greetings
+"hello, this is joel",greetings
+hi i am malcolm,greetings
+hello i am ashley,greetings
+hello i am ash from the coding team,greetings
+"yo, i am victor from the legal department",greetings
+i need some guidance,greetings
+help needed,greetings
+can you provide some quick help?,greetings
+i need some clarification,greetings
+can you provide some guidance,greetings
+I would like to take counselling,counsel
+can I get counselling,counsel
+counsel,counsel
+is counsel available,counsel
+counsel me,counsel
+can I get help and counselling,counsel
+counsel me,counsel
+Is there a counsellor available,counsel
+do you consel people,counsel
+counsel and help,counsel
+I need to speak to a real counselor,counsel
+I need to speak to a real counsellor,counsel
+help me ,counsel
+can you guide me,counsel
+I need guidance and tips,counsel
+tips from a real person,counsel
+counselling please ,counsel
+please help and advice,counsel
+I need advice,counsel
+I need counselling,counsel
+I need counsel,counsel
+counsel me please,counsel
+quick counsel ,counsel
+COUNSEL,counsel
+COUNSEL ME PLEASE,counsel
+Survey ,survey
+I would like to take a survey,survey
+Please help me to get a survey,survey
+Yes I would like to take a survey,survey
+"Yes, I'd like to participate in a survey.",survey
+"Yes, I'm interested in taking part in a poll.",survey
+"Yes, I'm interested in taking part in a survey.",survey
+Hi,greetings
+Hello,greetings
+Hi Help me,greetings
+"Hello, I'd like to take a look at the bot.",greetings
+Hello and good morning,greetings
+good morning,greetings
+Hello there.,greetings
+Good day.,greetings
+I do not understand,not recognized
+I'm not sure I understand.,not recognized
+I'm baffled.,not recognized
+I don't get it.,not recognized
+What is this?,not recognized
+What exactly is this?,not recognized
+What exactly is going on here?,not recognized
+I might want to take a study ,survey
+"If it's not too much trouble, assist me with getting a study ",survey
+Indeed I might want to take a study ,survey
+"Indeed, I'd prefer to partake in a study. ",survey
+"Indeed, I'm keen on partaking in a survey. ",survey
+"Indeed, I'm keen on partaking in a study.",survey
+I should take a review ,survey
+"Assuming no one minds, help me with getting a review ",survey
+Sure I should take a review ,survey
+"most certainly, I'd like to participate in a review. ",survey
+"To be sure, I'm enthusiastic about participating in a study. ",survey
+"To be sure, I'm enthusiastic about participating in a review.",survey
+I might want to take counselling ,counsel
+would i be able to seek guidance ,counsel
+counsel or counselling is available ,counsel
+is counselling accessible ,counsel
+counsel me ,counsel
+could i be able to seek help and guidance ,counsel
+counsel me ,counsel
+Is there an instructor accessible ,counsel
+do you counsel individuals ,counsel
+advice and help ,counsel
+I want to address a genuine guide ,counsel
+I want to address a genuine guide ,counsel
+help me ,counsel
+would you be able to direct me ,counsel
+I want direction and tips ,counsel
+tips from a genuine individual ,counsel
+advising please ,counsel
+kindly give assistance and counselling,counsel
+I want guidance ,counsel
+I want advising ,counsel
+I want counselling ,counsel
+counsel me please ,counsel
+speedy advice ,counsel
+Guidance ,counsel
+Guide ME PLEASE,counsel
+I should take a review ,survey
+"Assuming no one minds, help me with getting a review ",survey
+For sure I should take a review ,survey
+"Without a doubt, I'd like to participate in a review. ",survey
+"For sure, I'm excited about participating in a review. ",survey
+"For sure, I'm excited about participating in a review. ",survey
+I should take a survey ,survey
+"Accepting nobody minds, assist me with getting a survey ",survey
+Sure I should take a survey ,survey
+"definitely, I'd prefer to take part in an audit. ",survey
+"Certainly, I'm energetic about partaking in a review. ",survey
+"Undoubtedly, I'm excited about partaking in an audit.",survey
+I don't comprehend ,not recognized
+I don't know I comprehend. ,not recognized
+I'm bewildered. ,not recognized
+I don't get it. ,not recognized
+What is this? ,not recognized
+What precisely is this? ,not recognized
+What precisely is happening here?,not recognized
+I don't appreciate ,not recognized
+I don't realize I appreciate. ,not recognized
+I'm puzzled. ,not recognized
+I don't get it. ,not recognized
+What is this? ,not recognized
+What unequivocally is this? ,not recognized
+What unequivocally is going on here?,not recognized
+Can I get help and advice?,counsel
+advise me,counsel
+Is there a counselor available?,counsel
+you comfort the people,counsel
+advice and help,counsel
+I need to speak to a royal counselor,counsel
+I need to speak to a royal counselor,counsel
+Help me,counsel
+can you guide me,counsel
+I need guidance and advice,counsel
+advice from a real person,counsel
+counseling please,counsel
+please help and advice,counsel
+I need advice,counsel
+I need advice,counsel
+I need advice,counsel
+advise me please,counsel
+quick tip,counsel
+TIP,counsel
+COUNSELOR PLEASE,counsel
+Poll,survey
+I would like to take a survey,survey
+Help me get a survey,survey
+"Yes, I would like to conduct a survey.",survey
+"Yes, I would like to participate in a survey.",survey
+"Yes, I am interested in participating in a survey.",survey
+"Yes, I am interested in participating in a survey.",survey
+Confirm,ack
+Ok,ack
+"Okay, that's it.",ack
+Ok Done,ack
+Done with that.,ack
+Done thanks,ack
+Thank you for your help.,ack
+Thank you for your time.,ack
+Thank you for your assistance.,ack
+Okay,ack
+Thanks,ack
+Thanks you!,ack
+Thank you very much!,ack
+You're welcome!,ack
+Bye,End
+Good Bye,End
+Bye-bye,End
+End,End
+Ending,End
+Thanks for your time,End
+Thank you for your consideration.,End
+I appreciate your time and consideration.,End
