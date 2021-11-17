@@ -107,11 +107,11 @@ The obtained url can then be used to launch the though analysis streamlit app
 	Install all the requirements from environment file.
 	And run the master.py file 
 <add screenshot>
-•	This will act as a server for EmotinalHealthExpert_bot.
+-	This will act as a server for EmotinalHealthExpert_bot.
 
 ### Step 7: Initiate Chat
-•	In telegram please search for ,EmotionalHealthExpert_bot
-•	You can start the conversation by using /start
+-	In telegram please search for ,EmotionalHealthExpert_bot
+-	You can start the conversation by using /start
 
 
 
