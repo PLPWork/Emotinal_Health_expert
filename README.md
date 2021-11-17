@@ -6,7 +6,7 @@
 
 ### Team 5: Members
         - Ankeit Taksh           - Shivangi Verma
-        - Prashant Chaudhary      - Anirban kar Chaudhari
+        - Prashant Chaudhary     - Anirban kar Chaudhari
 
 ## Youtube Link (Merged Videos for Business & System Architecture / Demos)
    - https://www.youtube.com/watch?v=2iqxXFh1QL4
